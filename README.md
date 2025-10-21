@@ -1,3 +1,5 @@
+Fork from Zeioth/compiler.nvim
+I edited c/c++ settings in order to make the filename able to be any rather than only `main.c` or `main.cpp`
 # [Compiler.nvim](https://github.com/Zeioth/compiler.nvim)
 Neovim compiler for building and running your code without having to configure anything.
 
